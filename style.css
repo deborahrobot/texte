@@ -1,0 +1,31 @@
+.body{
+      
+   background: fixed;
+   color: pink;
+}
+.corpotexto{
+    margin: auto;
+    width: 150px;
+    height: auto;
+
+
+}.conteudo{
+    display: table;
+
+}
+.imagem {
+    display:table-cell;
+    float:left;
+
+}
+
+.laura{
+
+    display: table-cell;
+    float: left;
+    width: 300px;
+
+
+}
+
+
